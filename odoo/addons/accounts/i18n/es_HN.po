@@ -7990,7 +7990,7 @@ msgstr ""
 #: field:account.partner.reconcile.process,progress:0
 #: view:website:account.report_generalledger
 msgid "Progress"
-msgstr ""
+msgstr "Saldo"
 
 #. module: account
 #: view:account.analytic.line:account.account_analytic_line_extended_form
