@@ -261,7 +261,7 @@ msgstr ""
 #. module: account
 #: view:website:account.report_trialbalance
 msgid ": Trial Balance"
-msgstr ""
+msgstr "Balance de Comprobación"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_account_period
@@ -672,7 +672,7 @@ msgstr ""
 #: view:website:account.report_trialbalance
 #, python-format
 msgid "Account"
-msgstr ""
+msgstr "Cuenta"
 
 #. module: account
 #: model:ir.model,name:account.model_account_aged_trial_balance
@@ -1858,21 +1858,21 @@ msgstr ""
 #: model:ir.actions.act_window,name:account.action_account_report_bs
 #: model:ir.ui.menu,name:account.menu_account_report_bs
 msgid "Balance Sheet"
-msgstr ""
+msgstr "Balance General"
 
 #. module: account
 #: selection:account.account.type,report_type:0
 #: code:addons/account/account.py:208
 #, python-format
 msgid "Balance Sheet (Asset account)"
-msgstr ""
+msgstr "Balance General(Activos)"
 
 #. module: account
 #: selection:account.account.type,report_type:0
 #: code:addons/account/account.py:209
 #, python-format
 msgid "Balance Sheet (Liability account)"
-msgstr ""
+msgstr "Balance General(Pasivos)"
 
 #. module: account
 #: help:account.bank.statement,balance_end:0
@@ -3462,13 +3462,13 @@ msgstr ""
 #: selection:account.invoice,type:0 selection:account.invoice.report,type:0
 #: selection:report.invoice.created,type:0
 msgid "Customer Refund"
-msgstr "Nota de Credito de cliente"
+msgstr "Nota de crédito"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_invoice_tree3
 #: model:ir.ui.menu,name:account.menu_action_invoice_tree3
 msgid "Customer Refunds"
-msgstr "Notas de crédito del cliente"
+msgstr "Notas de crédito"
 
 #. module: account
 #: field:product.template,taxes_id:0
@@ -5753,7 +5753,7 @@ msgstr ""
 #: model:ir.ui.menu,name:account.menu_action_move_journal_line_form
 #: model:ir.ui.menu,name:account.menu_finance_entries
 msgid "Journal Entries"
-msgstr "Pólizas"
+msgstr "Asientos contables"
 
 #. module: account
 #: view:account.move:account.view_account_move_filter
@@ -7848,7 +7848,7 @@ msgstr ""
 #. module: account
 #: selection:account.journal,type:0
 msgid "Purchase Refund"
-msgstr "Nota de Credito de Proveedor"
+msgstr "Nota de crédito"
 
 #. module: account
 #: code:addons/account/account.py:3176
