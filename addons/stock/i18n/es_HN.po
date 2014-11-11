@@ -3168,7 +3168,7 @@ msgstr ""
 #: field:stock.picking,picking_type_id:0
 #: view:stock.picking.type:stock.view_pickingtype_filter
 msgid "Picking Type"
-msgstr ""
+msgstr "Tipo de movimiento"
 
 #. module: stock
 #: field:stock.picking,picking_type_code:0
