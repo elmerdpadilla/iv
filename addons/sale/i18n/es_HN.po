@@ -758,7 +758,7 @@ msgstr ""
 #. module: sale
 #: field:sale.order.line,name:0 view:website:sale.report_saleorder_document
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. module: sale
 #: view:website:sale.report_saleorder_document
@@ -1370,7 +1370,7 @@ msgstr ""
 #. module: sale
 #: view:website:sale.report_saleorder_document
 msgid "Price"
-msgstr ""
+msgstr "Precio"
 
 #. module: sale
 #: field:sale.order,pricelist_id:0 field:sale.report,pricelist_id:0
@@ -1452,7 +1452,7 @@ msgstr ""
 #: field:sale.order.line,product_uom_qty:0
 #: view:website:sale.report_saleorder_document
 msgid "Quantity"
-msgstr ""
+msgstr "Cantidad"
 
 #. module: sale
 #: field:sale.order.line,product_uos_qty:0
@@ -1746,7 +1746,7 @@ msgstr ""
 #: field:sale.order.line,salesman_id:0
 #: view:sale.report:sale.view_order_product_search field:sale.report,user_id:0
 msgid "Salesperson"
-msgstr ""
+msgstr "Vendedor"
 
 #. module: sale
 #: view:website:sale.report_saleorder_document
@@ -2026,7 +2026,7 @@ msgstr ""
 #. module: sale
 #: view:website:sale.report_saleorder_document
 msgid "Total Without Taxes"
-msgstr ""
+msgstr "SubTotal"
 
 #. module: sale
 #: field:sale.config.settings,module_sale_stock:0
@@ -2047,7 +2047,7 @@ msgstr ""
 #: field:sale.order.line,price_unit:0
 #: view:website:sale.report_saleorder_document
 msgid "Unit Price"
-msgstr ""
+msgstr "Precio Unitario"
 
 #. module: sale
 #: view:sale.order.line:sale.view_order_line_tree
