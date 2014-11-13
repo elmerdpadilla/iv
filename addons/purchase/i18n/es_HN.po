@@ -1754,7 +1754,7 @@ msgstr "Cotización N°"
 #: model:ir.actions.act_window,name:purchase.purchase_rfq
 #: model:ir.ui.menu,name:purchase.menu_purchase_rfq
 msgid "Requests for Quotation"
-msgstr ""
+msgstr "Cotizaciones"
 
 #. module: purchase
 #: field:purchase.order.line,move_ids:0
