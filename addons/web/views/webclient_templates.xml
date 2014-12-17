@@ -256,11 +256,11 @@
                     <t t-raw="0"/>
 
                     <div class="oe_single_form_footer" t-if="not disable_footer">
-                        <t t-if="not disable_database_manager">
+                        <!-- <t t-if="not disable_database_manager">
                             <a class="oe_login_manage_db" t-attf-href="/web/database/manager{{ '?debug' if debug else '' }}">Manage Databases</a>
                             <span class="oe_footer_seperator"> | </span>
-                        </t>
-                        <a href="https://www.odoo.com" target="_blank">Powered by <span>Odoo</span></a>
+                        </t>-->
+                        <a href="http://innovahn.com" target="_blank">Powered by <span>InnovaHN</span></a>
                     </div>
                 </div>
             </t>
